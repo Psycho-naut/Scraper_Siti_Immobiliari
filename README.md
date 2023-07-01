@@ -1,2 +1,3 @@
 # Scraper_Siti_Immobiliari
-Scraper che raccolgono dati da siti di vendita immobiliare
+
+Tre Script che raccolgono annunci immobiliari da 3 siti diversi(Immobiliare.it, Parmacasa.it, Offrocasa.it), basta inserire la provincia il range di prezzo e il risultato viene salvato in dei file CSV.
